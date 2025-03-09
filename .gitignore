@@ -1,0 +1,11 @@
+# Pour Python
+env/
+__pycache__/
+*.pyc
+
+# Pour Django
+db.sqlite3
+
+# Pour Node.js / React
+node_modules/
+build/
