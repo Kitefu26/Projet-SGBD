@@ -1,0 +1,22 @@
+[
+    {
+        "model": "exercices.exercice",
+        "pk": 1,
+        "fields": {
+            "titre": "Exercice 1",
+            "professeur": 1,
+            "date_debut": "2023-01-01",
+            "date_fin": "2023-01-31"
+        }
+    },
+    {
+        "model": "exercices.exercice",
+        "pk": 2,
+        "fields": {
+            "titre": "Exercice 2",
+            "professeur": 2,
+            "date_debut": "2023-02-01",
+            "date_fin": "2023-02-28"
+        }
+    }
+]

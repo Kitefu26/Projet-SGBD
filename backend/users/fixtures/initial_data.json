@@ -1,0 +1,20 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "username": "professeur1",
+            "password": "hashed_password",
+            "email": "professeur1@example.com"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+            "username": "professeur2",
+            "password": "hashed_password",
+            "email": "professeur2@example.com"
+        }
+    }
+]
